@@ -1,0 +1,4 @@
+php-execution-error.log
+vendor/
+.env
+.htaccess

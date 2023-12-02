@@ -1,0 +1,18 @@
+{
+    "name": "ecasa/note-learn",
+    "description": "project notes for organization the study everyday",
+    "autoload": {
+        "psr-4": {
+            "Ecasa\\NoteLearn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Esteban Casallas",
+            "email": "ecasallas07@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.17"
+    }
+}
