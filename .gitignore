@@ -2,3 +2,6 @@ php-execution-error.log
 vendor/
 .env
 .htaccess
+migrations.php
+migrations/
+
