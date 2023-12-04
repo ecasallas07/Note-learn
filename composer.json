@@ -13,6 +13,11 @@
         }
     ],
     "require": {
-        "doctrine/orm": "^2.17"
+        "doctrine/orm": "^2.17",
+        "balint-horvath/dotenv-php": "^1.0",
+        "doctrine/migrations": "^3.7",
+        "vlucas/phpdotenv": "^5.6",
+        "doctrine/cache": "^1.11",
+        "doctrine/annotations": "^1.12"
     }
 }
